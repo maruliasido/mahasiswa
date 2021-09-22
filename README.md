@@ -1,3 +1,3 @@
 # mahasiswa
 
-Untuk soal test perusahaan
+Untuk soal test perusahaan abaikan zipnya
